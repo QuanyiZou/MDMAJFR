@@ -1,5 +1,5 @@
-# MDMAJFR
- KSETE-master
+## MDMAJFR
+ 
 Within this archive you find the full replication package for the paper "Joint Feature Representation Learning and Progressive Distribution Matching for Cross-Project Defect" by Quanyi Zou, Lu Lu, Zhanyu Yang, Shaojian Qiu and xiaowei Gu.
 
 
