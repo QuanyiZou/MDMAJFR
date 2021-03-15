@@ -5,5 +5,5 @@ Within this archive you find the full replication package for the paper "Joint F
 
 ##  Contact
 If you have any problem about our code, feel free to contact
-- zouquanyi@163.com
+- zouquanyi2010@163.com
 or describe your problem in Issues.
